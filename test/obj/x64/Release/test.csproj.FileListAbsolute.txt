@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\ttestt\test\test\bin\x64\Release\test.exe.config
+C:\Users\user\Desktop\ttestt\test\test\bin\x64\Release\test.exe
+C:\Users\user\Desktop\ttestt\test\test\bin\x64\Release\test.pdb
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Release\test.SEARCHER.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Release\test.Form2.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Release\test.Properties.Resources.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Release\test.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Release\test.exe
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Release\test.pdb
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Release\test.SEARCHER.resources
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Release\test.Form2.resources
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Release\test.Properties.Resources.resources
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Release\test.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\test123 (2)\test\bin\x64\Release\DATA SEARCHER.exe.config
+C:\Users\user\Desktop\test123 (2)\test\bin\x64\Release\DATA SEARCHER.exe
+C:\Users\user\Desktop\test123 (2)\test\bin\x64\Release\DATA SEARCHER.pdb
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Release\DATA SEARCHER.exe
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Release\DATA SEARCHER.pdb
+D:\개인\Data Searcher\test\bin\x64\Release\DATA SEARCHER.exe.config
+D:\개인\Data Searcher\test\obj\x64\Release\DATA SEARCHER.exe
+D:\개인\Data Searcher\test\obj\x64\Release\DATA SEARCHER.pdb
+D:\개인\Data Searcher\test\bin\x64\Release\DATA SEARCHER.exe
+D:\개인\Data Searcher\test\bin\x64\Release\DATA SEARCHER.pdb
+D:\개인\Data Searcher\test\obj\x64\Release\test.csprojResolveAssemblyReference.cache
+D:\개인\Data Searcher\test\obj\x64\Release\test.SEARCHER.resources
+D:\개인\Data Searcher\test\obj\x64\Release\test.Form2.resources
+D:\개인\Data Searcher\test\obj\x64\Release\test.Properties.Resources.resources
+D:\개인\Data Searcher\test\obj\x64\Release\test.csproj.GenerateResource.Cache

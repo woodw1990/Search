@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\ttestt\test\test\bin\Release\test.exe.config
+C:\Users\user\Desktop\ttestt\test\test\bin\Release\test.exe
+C:\Users\user\Desktop\ttestt\test\test\bin\Release\test.pdb
+C:\Users\user\Desktop\ttestt\test\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ttestt\test\test\obj\Release\test.SEARCHER.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\Release\test.Form2.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\Release\test.Properties.Resources.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\Release\test.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ttestt\test\test\obj\Release\test.exe
+C:\Users\user\Desktop\ttestt\test\test\obj\Release\test.pdb

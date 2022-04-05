@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\ttestt\test\test\bin\x64\Debug\test.exe.config
+C:\Users\user\Desktop\ttestt\test\test\bin\x64\Debug\test.exe
+C:\Users\user\Desktop\ttestt\test\test\bin\x64\Debug\test.pdb
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Debug\test.SEARCHER.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Debug\test.Form2.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Debug\test.Properties.Resources.resources
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Debug\test.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Debug\test.exe
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Debug\test.pdb
+C:\Users\user\Desktop\ttestt\test\test\obj\x64\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\ysk85\Desktop\지빠귀\test123\test\bin\x64\Debug\test.exe.config
+C:\Users\ysk85\Desktop\지빠귀\test123\test\bin\x64\Debug\test.exe
+C:\Users\ysk85\Desktop\지빠귀\test123\test\bin\x64\Debug\test.pdb
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.csproj.AssemblyReference.cache
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.SEARCHER.resources
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.Form2.resources
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.Properties.Resources.resources
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.csproj.GenerateResource.cache
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.exe
+C:\Users\ysk85\Desktop\지빠귀\test123\test\obj\x64\Debug\test.pdb
+C:\Users\user\Desktop\test123 (2)\test\bin\x64\Debug\test.exe.config
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Debug\test.exe
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Debug\test.pdb
+C:\Users\user\Desktop\test123 (2)\test\bin\x64\Debug\test.exe
+C:\Users\user\Desktop\test123 (2)\test\bin\x64\Debug\test.pdb
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Debug\test.SEARCHER.resources
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Debug\test.Form2.resources
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Debug\test.Properties.Resources.resources
+C:\Users\user\Desktop\test123 (2)\test\obj\x64\Debug\test.csproj.GenerateResource.Cache
+D:\개인\Data Searcher\test\bin\x64\Debug\DATA SEARCHER.exe.config
+D:\개인\Data Searcher\test\bin\x64\Debug\DATA SEARCHER.exe
+D:\개인\Data Searcher\test\bin\x64\Debug\DATA SEARCHER.pdb
+D:\개인\Data Searcher\test\obj\x64\Debug\test.csprojResolveAssemblyReference.cache
+D:\개인\Data Searcher\test\obj\x64\Debug\test.SEARCHER.resources
+D:\개인\Data Searcher\test\obj\x64\Debug\test.Form2.resources
+D:\개인\Data Searcher\test\obj\x64\Debug\test.Properties.Resources.resources
+D:\개인\Data Searcher\test\obj\x64\Debug\test.csproj.GenerateResource.Cache
+D:\개인\Data Searcher\test\obj\x64\Debug\DATA SEARCHER.exe
+D:\개인\Data Searcher\test\obj\x64\Debug\DATA SEARCHER.pdb
